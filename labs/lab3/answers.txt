@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: second slowest sorting algorithm of the three
+
+sort2 uses: merge sort
+
+How do you know?: it is by far the fastest algorithm of the ones implemented
+
+sort3 uses: selection sort
+
+How do you know?: slowest algorithm
+
